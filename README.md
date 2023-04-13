@@ -10,7 +10,7 @@
 <br/>
 
 - 🔭 I'm currently working at GH Branding as __reactjs font-end developer__
-- 🌱 I’m currently learning ReactJS, Typescript, Vue.js
+- 🌱 I’m currently learning Javascript, Typescript and Next.js
 - 📫 How to reach me: [Contact Form](https://arianebrandao.github.io/contact/) | [arii.brandao@gmail.com](mailto:arii.brandao@gmail.com)
 - 😄 Pronouns: She/Her
 - Experience with: HTML5, CSS, PHP, Git, Javascript, MySQL, Wordpress
