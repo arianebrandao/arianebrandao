@@ -14,7 +14,3 @@
 - 📫 How to reach me: [Contact Form](https://arianebrandao.github.io/contact/) | [arii.brandao@gmail.com](mailto:arii.brandao@gmail.com)
 - 🎮 Proud gamer
 - Experience with: HTML5, CSS, PHP, Git, Javascript, MySQL, Wordpress
-
-<br/>
-
-![Ariane's github stats](https://github-readme-stats.vercel.app/api?username=arianebrandao&show_icons=true&theme=aura_dark&hide=contribs)
