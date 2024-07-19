@@ -10,7 +10,7 @@
 <br/>
 
 - 🔭 I'm currently open to work as __front end dev__
-- 🌱 I’m currently learning Javascript, Typescript and Next.js
+- 🌱 I’m currently learning Typescript and Next.js
 - 📫 How to reach me: [Contact Form](https://arianebrandao.github.io/contact/) | [arii.brandao@gmail.com](mailto:arii.brandao@gmail.com)
 - 🎮 Proud gamer
 - Experience with: React, HTML5, CSS, PHP, Git, Javascript, MySQL, Wordpress
