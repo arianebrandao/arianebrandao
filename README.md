@@ -13,4 +13,4 @@
 - 🌱 I’m currently learning Typescript and Next.js
 - 📫 How to reach me: [Contact Form](https://arianebrandao.github.io/contact/) | [arii.brandao@gmail.com](mailto:arii.brandao@gmail.com)
 - 🎮 Proud gamer
-- Experience with: React, HTML5, CSS, PHP, Git, Javascript, MySQL, Wordpress
+- Experience with: React, HTML5, CSS, PHP, Git, Javascript, SQL, MySQL, Wordpress
