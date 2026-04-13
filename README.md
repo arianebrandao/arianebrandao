@@ -1,6 +1,6 @@
 ## <p align='center'>Hi there, I'm Ariane Brandão Lobo 👋</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-252334?style=for-the-badge&labelColor=DC6668&logo=Linkedin)](https://www.linkedin.com/in/ariane-brandão/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-252334?style=for-the-badge&labelColor=DC6668&logo=Linkedin)](https://www.linkedin.com/in/ariane-brandao/)
 [![My Website](https://img.shields.io/badge/-Website-252334?style=for-the-badge&labelColor=DC6668&logo=Ghost)](https://arianebrandao.github.io)
 
 <br/>
